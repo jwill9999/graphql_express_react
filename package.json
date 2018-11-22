@@ -1,0 +1,27 @@
+{
+  "name": "graphql-express-react",
+  "version": "1.0.0",
+  "description": "Graphql node-express server with react front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Jason Williams",
+    "email": "jasonwilliams@letuscode.co.uk",
+    "url": "http://www.letuscode.co.uk"
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "keywords": [
+    "express",
+    "react",
+    "create-react-app",
+    "graphql",
+    "graphql-express",
+    "node",
+    "javascript",
+    "apollo",
+    "quokka"
+  ]
+}
