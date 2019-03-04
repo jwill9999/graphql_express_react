@@ -1,6 +1,6 @@
 # Set up Graphql Node Server
 <div align="center">
-<img src="https://1drv.ms/u/s!Ai0GNI50Q5GAg9lOJ5grE5nanwXudg" width="660" height="440" />
+<img src="./client/public/images/graphql.png"  />
 </div>
 
 1. In index.js/server.js add an end point for graphql
